@@ -1,7 +1,7 @@
-# **Project: Cyber Risk Assessment for Company Z**
+# **Project: Incident Response plan for Company Z**
 
 ### **Summary**
-In **September 2024**, Company Z completed a comprehensive **Cyber Risk Assessment** to evaluate potential risks to its digital infrastructure and improve its cybersecurity posture. This assessment identified key vulnerabilities, recommended mitigation strategies, and aimed to strengthen resilience against cyber threats.
+In **September 2024**, Company Z completed a comprehensive **Incident Response plan** to evaluate potential risks to its digital infrastructure and improve its cybersecurity posture. This assessment identified key vulnerabilities, recommended mitigation strategies, and aimed to strengthen resilience against cyber threats.
 
 ---
 
